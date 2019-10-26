@@ -1,5 +1,10 @@
-# Grid-2-Thermal-Camera
+# RedGRID-Thermal-Camera
 This is a firmware Publishing Platform 
+
+
+TYPE: Grid-2 
+
+
 
 这里 将不定期的发布Grid-2 红外热成像仪的 最新版本及保留历史版本，感谢您的关注以及新版本的试用，我们期待提供更完善的 固件给您，也欢迎客户反馈及建议，帮助我们做的更好。
 
