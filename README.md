@@ -10,3 +10,5 @@ This is a firmware Publishing Platform
 【Update Tool.rar】 里面存放的是串口升级工具及USB转串口芯片 CH340E的驱动程序，里面还有使用操作升级说明温度，按照文档操作后可以进行固件的版本升级了。
 
 
+2019.10.19 V1.00
+发布V1.00 基本版固件
