@@ -4,7 +4,8 @@ This is a firmware Publishing Platform
 
 TYPE: Grid-2 
 
-HARDWARE : https://shop115660225.taobao.com/
+HARDWARE KITS 
+硬件购买链接 : https://shop115660225.taobao.com/
 
 
 
